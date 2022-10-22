@@ -1,3 +1,3 @@
 # Test
 **Hacktoberfest**
-__Italics__
+_Italics_
